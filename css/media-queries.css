@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  .carousel-inner .carousel-item {
+    height: 50vh;
+  }
+  .card-img-overlay {
+    font-size: ;
+    padding: 10px;
+  }
+}
